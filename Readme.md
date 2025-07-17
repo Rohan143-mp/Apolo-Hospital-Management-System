@@ -1,4 +1,4 @@
-ds# 🏥 Apolo Hospital Management System
+# 🏥 Apolo Hospital Management System
 
 A Windows Forms Application developed in **VB.NET** for managing hospital operations such as doctor scheduling, patient appointments, and admin tasks at **Apolo Hospital**.
 
