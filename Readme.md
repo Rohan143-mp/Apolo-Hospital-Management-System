@@ -87,15 +87,9 @@ Apolo Hospital/<br></br>
 
 ---
 
-## 🖼️ Screenshots
-
-> _You can add screenshots or UI preview GIFs here._
-
----
-
 ## 👨‍💻 Author
 
-**Rohan M Pednekar**  
+**Rohan Mahesh Pednekar**  
 Terna Engineering College  
 VB.NET Windows Forms Developer  
 
